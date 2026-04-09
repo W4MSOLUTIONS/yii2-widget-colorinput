@@ -1,23 +1,8 @@
-<h1 align="center">
-    <a href="http://demos.krajee.com" title="Krajee Demos" target="_blank">
-        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/krajee-logo-b.png" alt="Krajee Logo"/>
-    </a>
-    <br>
-    yii2-widget-colorinput
-    <hr>
-    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DTP3NZQ6G2AYU"
-       title="Donate via Paypal" target="_blank">
-        <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
-    </a>
-</h1>
+# yii2-widget-colorinput
 
+Color input forked from https://github.com/kartik-v/yii2-widget-colorinput 
 
-[![Stable Version](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/v/stable)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
-[![Unstable Version](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/v/unstable)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
-[![License](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/license)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
-[![Total Downloads](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/downloads)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
-[![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/d/monthly)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
-[![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-widget-colorinput/d/daily)](https://packagist.org/packages/kartik-v/yii2-widget-colorinput)
+Released under w4msolutions namespace for providing latest dev-master as tags 2.x
 
 The ColorInput widget is an advanced ColorPicker input styled for Bootstrap. It uses a combination of the HTML5 color input and/or the [JQuery Spectrum Plugin](http://bgrins.github.io/spectrum) for rendering the color picker. You can use the Native HTML5 color input by setting the `useNative` option to `true`. Else, the Spectrum plugin polyfills for unsupported browser versions.
 
@@ -57,7 +42,7 @@ You can refer detailed [documentation and demos](http://demos.krajee.com/widget-
 ## Usage
 
 ```php
-use kartik\color\ColorInput;
+use w4msolutions\color\ColorInput;
 
 // Usage with ActiveForm and model
 echo $form->field($model, 'color')->widget(ColorInput::classname(), [

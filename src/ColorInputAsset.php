@@ -7,7 +7,7 @@
  * @version 1.0.6
  */
 
-namespace kartik\color;
+namespace w4msolutions\color;
 
 /**
  * Asset bundle for ColorInput Widget

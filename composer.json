@@ -1,8 +1,8 @@
 {
-    "name": "kartik-v/yii2-widget-colorinput",
+    "name": "w4msolutions/yii2-widget-colorinput",
     "description": "An enhanced Yii 2 widget encapsulating the HTML 5 color input (sub repo split from yii2-widgets)",
     "keywords": ["yii2", "extension", "widget", "form", "color", "input", "html5", "jquery", "plugin"],
-    "homepage": "https://github.com/kartik-v/yii2-widget-colorinput",
+    "homepage": "https://github.com/W4MSOLUTIONS/yii2-widget-colorinput",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -17,12 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kartik\\color\\": "src"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
+            "w4msolutions\\color\\": "src"
         }
     }
 }
