@@ -15,7 +15,7 @@ The ColorInput widget is an advanced ColorPicker input styled for Bootstrap. It 
 
 ## Installation
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/). Check the [composer.json](https://github.com/W4MSOLUTIONS/yii2-widget-colorinput/blob/master/composer.json) for this extension's requirements and dependencies. Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-stability-application/) on setting the `minimum-stability` settings for your application's composer.json.
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/). Check the [composer.json](https://github.com/w4msolutions/yii2-widget-colorinput/blob/master/composer.json) for this extension's requirements and dependencies. Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-stability-application/) on setting the `minimum-stability` settings for your application's composer.json.
 
 To install, either run
 
@@ -33,7 +33,7 @@ to the ```require``` section of your `composer.json` file.
 
 ## Release Updates
 
-> NOTE: Refer the [CHANGE LOG](https://github.com/W4MSOLUTIONS/yii2-widget-colorinput/blob/master/CHANGE.md) for details on release wise changes.
+> NOTE: Refer the [CHANGE LOG](https://github.com/w4msolutions/yii2-widget-colorinput/blob/master/CHANGE.md) for details on release wise changes.
 
 ## Demo
 
